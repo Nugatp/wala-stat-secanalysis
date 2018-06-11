@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.3/commons-lang-2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/wala/com.ibm.wala.core/1.3.9/com.ibm.wala.core-1.3.9.jar" sourcepath="/wala_core"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/wala/com.ibm.wala.util/1.3.9/com.ibm.wala.util-1.3.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/ibm/wala/com.ibm.wala.shrike/1.3.9/com.ibm.wala.shrike-1.3.9.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WALA"/>
+	<classpathentry kind="lib" path="/Users/philipnguyen/Dropbox/Masterarbeit/Evaluation/javaparser-javaparser-1.0.11/target/javaparser-1.0.11.jar" sourcepath="/japa"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/Evaluation_base"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
